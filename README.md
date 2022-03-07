@@ -4,4 +4,7 @@
 Z katalogu głównego: 
 ```streamlit run src/main.py```
 
-Następnie należy wgrać odpowiednie pliki jsonl z katalogu resources
+Następnie należy wgrać odpowiednie pliki jsonl z folderu resources
+
+## Uruchomienie przykładu gradio:
+Uruchomienie pliku main.py z folderu gradioexample
