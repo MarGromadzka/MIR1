@@ -1,3 +1,6 @@
 streamlit
 torch
 matplotlib
+gradio
+numpy
+transformers
